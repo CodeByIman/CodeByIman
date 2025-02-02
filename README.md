@@ -1,6 +1,6 @@
 # My Awesome Project 🚀
 
-Welcome to my project! This is a stylish README file.
+**'Welcome to my project! This is a stylish README file.'**
 
 ## 🎨 Styling with Markdown
 
