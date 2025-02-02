@@ -21,8 +21,8 @@
 
 ### 🏆 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImanBouboul&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanBouboul&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByIman&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByIman&layout=compact&theme=radical" width="400"/>
 </p>
 
 ---
