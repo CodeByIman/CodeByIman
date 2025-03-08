@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imane-bouboul/">LinkedIn</a> •
-  <a href="[https://your-portfolio.com/](https://codebyiman.github.io/imaneProtofolio/)">Portfolio</a> •
+  <a href="https://codebyiman.github.io/imaneProtofolio/">Portfolio</a> •
   <a href="mailto:imanebouboul0@gmail.com">Email Me</a>
 </p>
 
